@@ -14,7 +14,6 @@ My research interests include:
 - Natural Language Processing
 - Vision & Language
 - Document Understanding
-- Sentence/Document Embeddings
 
 Education
 ======
