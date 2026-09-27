@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2025.05 - 2026.03: Research Assistant, NII/LLMC (LLM-jp), Multimodal WG
-* 2024.08 - 2026.03: Engineering Intern, Cierpa & Co, Inc (AI Lab)
+* 2024.08 - 2026.03: Software Engineer, Cierpa & Co, Inc
 * 2024.03 - 2024.04: Short Internship, ユーザベース (UB Research)
 
 Publications

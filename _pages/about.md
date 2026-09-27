@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold a Master's degree (数理情報学) from Ehime University and am currently working as a Research Assistant at NII/LLMC (LLM-jp), as well as an Engineering Intern at Cierpa & Co, Inc.
+I hold a Master's degree (数理情報学) from Ehime University and am currently working as a Research Assistant at NII/LLMC (LLM-jp), as well as a Software Engineer at Cierpa & Co, Inc.
 
 My research interests include:
 - Natural Language Processing
@@ -24,6 +24,6 @@ Education
 Current Positions
 ======
 * 2025.05 - 2026.03: Research Assistant, NII/LLMC (LLM-jp), Multimodal WG
-* 2024.08 - 2026.03: Engineering Intern, Cierpa & Co, Inc (AI Lab)
+* 2024.08 - 2026.03: Software Engineer, Cierpa & Co, Inc
 
 For a full list of publications, awards, and experience, see my [CV](/cv/) and [Publications](/publications/) pages.
